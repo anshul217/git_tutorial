@@ -3,3 +3,4 @@
 1. command to initialize git repo  ==> git init
 2. command to add remote address   ==> git remote add origin  <repo url>
 3. command to add file             ==> git add .
+4. command to fetch all branch     ==> git fetch --all
