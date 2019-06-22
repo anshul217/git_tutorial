@@ -1,2 +1,4 @@
 # this is basic git command file
 
+1. command to initialize git repo  ==> git init
+2. command to add remote address   ==> git remote add origin  <repo url>
